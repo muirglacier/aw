@@ -7,11 +7,11 @@ import (
 	"go.uber.org/zap"
 	"time"
 
-	"github.com/renproject/aw/dht"
-	"github.com/renproject/aw/peer"
-	"github.com/renproject/aw/transport"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/dht"
+	"github.com/muirglacier/aw/peer"
+	"github.com/muirglacier/aw/transport"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

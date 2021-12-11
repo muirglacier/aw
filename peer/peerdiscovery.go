@@ -7,10 +7,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/renproject/aw/transport"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/aw/transport"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 
 	"go.uber.org/zap"
 )

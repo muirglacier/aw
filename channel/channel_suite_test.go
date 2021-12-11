@@ -8,12 +8,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/renproject/aw/channel"
-	"github.com/renproject/aw/codec"
-	"github.com/renproject/aw/handshake"
-	"github.com/renproject/aw/policy"
-	"github.com/renproject/aw/tcp"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/channel"
+	"github.com/muirglacier/aw/codec"
+	"github.com/muirglacier/aw/handshake"
+	"github.com/muirglacier/aw/policy"
+	"github.com/muirglacier/aw/tcp"
+	"github.com/muirglacier/id"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

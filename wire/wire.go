@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/renproject/id"
+	"github.com/muirglacier/id"
 
-	"github.com/renproject/surge"
+	"github.com/muirglacier/surge"
 )
 
 // Enumerate all valid MsgVersion values.

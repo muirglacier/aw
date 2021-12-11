@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/renproject/aw/codec"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/codec"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 )
 
 var DefaultMinimumExpiryAge = time.Minute

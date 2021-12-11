@@ -3,7 +3,7 @@ package wire_test
 import (
 	"math/rand"
 
-	"github.com/renproject/aw/wire"
+	"github.com/muirglacier/aw/wire"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

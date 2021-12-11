@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 )
 
 // Force InMemTable to implement the Table interface.

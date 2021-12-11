@@ -11,8 +11,8 @@ import (
 
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/crypto/ecies"
-	"github.com/renproject/aw/codec"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/codec"
+	"github.com/muirglacier/id"
 )
 
 const sizeOfSecretKey = 32

@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/renproject/aw/codec"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/codec"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 
 	"go.uber.org/zap"
 	"golang.org/x/time/rate"

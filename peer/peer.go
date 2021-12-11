@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/renproject/aw/channel"
-	"github.com/renproject/aw/dht"
-	"github.com/renproject/aw/transport"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/channel"
+	"github.com/muirglacier/aw/dht"
+	"github.com/muirglacier/aw/transport"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 )
 
 var (

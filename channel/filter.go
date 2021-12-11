@@ -3,8 +3,8 @@ package channel
 import (
 	"sync"
 
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 )
 
 // A Filter is used to drop messages, and their respective channels, when the

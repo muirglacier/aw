@@ -8,10 +8,10 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/renproject/aw/dht"
-	"github.com/renproject/aw/dht/dhtutil"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/dht"
+	"github.com/muirglacier/aw/dht/dhtutil"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

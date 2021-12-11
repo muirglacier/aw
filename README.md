@@ -1,8 +1,8 @@
 # `🌪 airwave`
 
-[![GoDoc](https://godoc.org/github.com/renproject/aw?status.svg)](https://godoc.org/github.com/renproject/aw)
-![](https://github.com/renproject/aw/workflows/go/badge.svg)
-![Go Report](https://goreportcard.com/badge/github.com/renproject/aw)
+[![GoDoc](https://godoc.org/github.com/muirglacier/aw?status.svg)](https://godoc.org/github.com/muirglacier/aw)
+![](https://github.com/muirglacier/aw/workflows/go/badge.svg)
+![Go Report](https://goreportcard.com/badge/github.com/muirglacier/aw)
 [![Coverage Status](https://coveralls.io/repos/github/renproject/aw/badge.svg?branch=master)](https://coveralls.io/github/renproject/aw?branch=master)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/renproject/aw/peer"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/peer"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

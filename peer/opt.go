@@ -3,7 +3,7 @@ package peer
 import (
 	"time"
 
-	"github.com/renproject/id"
+	"github.com/muirglacier/id"
 	"go.uber.org/zap"
 )
 

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/renproject/aw/peer"
-	"github.com/renproject/aw/wire"
-	"github.com/renproject/id"
+	"github.com/muirglacier/aw/peer"
+	"github.com/muirglacier/aw/wire"
+	"github.com/muirglacier/id"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 

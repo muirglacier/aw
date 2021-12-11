@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 )
 
 // Protocol defines the network protocol used by an address for

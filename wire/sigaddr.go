@@ -3,7 +3,7 @@ package wire
 import (
 	"fmt"
 
-	"github.com/renproject/id"
+	"github.com/muirglacier/id"
 )
 
 type SignatoryAndAddress struct {

@@ -1,7 +1,7 @@
 package dhtutil
 
 import (
-	"github.com/renproject/id"
+	"github.com/muirglacier/id"
 	"math/rand"
 	"reflect"
 	"sort"
